@@ -2,8 +2,6 @@
 
 ## Sobre o projeto:
 
-  No projeto passado você implementou algumas funções que faziam leitura e escrita de arquivos `JSON` e `CSV`, correto?
-
   Neste projeto foi utilizando a Programação Orientada a Objetos. Foi desenvolvido um **gerador de relatórios** que recebe como entrada arquivos com dados de um estoque e gera, como saída, um relatório acerca destes dados.
 
   Esses dados de estoque foi obtidos de diversas fontes:
